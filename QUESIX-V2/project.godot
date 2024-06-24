@@ -1,16 +1,8 @@
-; Engine configuration file.
-; It's best edited using the editor UI and not directly,
-; since the parameters that go here are not all obvious.
-;
-; Format:
-;   [section] ; section goes between []
-;   param=value ; assign values to parameters
-
 config_version=5
 
 [application]
 
-config/name="Quesix-V2"
+config/name="rocket_path"
 run/main_scene="res://Scenes/Levels/Main.tscn"
 config/features=PackedStringArray("4.1")
 boot_splash/bg_color=Color(0.0588235, 0.054902, 0.0666667, 1)
